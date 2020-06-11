@@ -1,0 +1,288 @@
+body {
+  text-align: center;
+  background-image: url(background.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #3d2613;
+  font-family: 'Vast Shadow', cursive;
+  text-shadow: 1px 1px 2px #fff;
+
+}
+
+.a:hover{
+      border-radius: 50%;
+      background-image: url("apple.gif");
+      background-repeat: no-repeat;
+      background-size: cover;
+      color: transparent;
+}
+
+.b:hover {
+  border-radius: 50%;
+  background-image: url("ball.gif");
+  background-size: cover;
+  color: transparent;
+}
+
+.c:hover {
+  border-radius: 50%;
+  background-image: url("cat.gif");
+  background-size: cover;
+  color: transparent;
+}
+
+.d:hover {
+  border-radius: 50%;
+  background-image: url("dog.gif");
+  background-size: cover;
+  color: transparent;
+}
+
+.e:hover {
+  border-radius: 50%;
+  background-image: url("https://media2.giphy.com/media/ZCNhFJnP23twCGOzDg/giphy.gif?cid=ecf05e47fa8e4c85ee51797f191cdff99b8a0b4964fd45b3&rid=giphy.gif");
+  background-size: cover;
+  color: transparent;
+  align-items: center;
+}
+
+.f:hover {
+  border-radius: 50%;
+  background-image: url("https://media3.giphy.com/media/xUOwGaHZAqer55FTZS/200w.webp?cid=ecf05e470d62fb763c270c8329f8f6312c28f3ac1a38f7d8&rid=200w.webp");
+  background-size: cover;
+  color: transparent;
+}
+
+.g:hover {
+  border-radius: 50%;
+  background-image: url("https://media2.giphy.com/media/3oEduIFedQAKvGr0DC/giphy.gif?cid=ecf05e471934c732b5980e2c1d4a4a7ff41696bfbe2a2868&rid=giphy.gif");
+  background-size: cover;
+  color: transparent;
+}
+
+.h:hover {
+  border-radius: 50%;
+  background-image: url("hat.gif");
+  background-size: cover;
+  color: transparent;
+}
+
+.i:hover {
+  border-radius: 50%;
+  background-image: url("insect.gif");
+  background-size: cover;
+  color: transparent;
+}
+
+.j:hover {
+  border-radius: 50%;
+  background-image: url("jump.gif");
+  background-size: cover;
+  color: transparent;
+}
+
+.k:hover {
+  border-radius: 50%;
+  background-image: url("https://media0.giphy.com/media/3og0IBgplK2k9XgsmI/giphy.gif?cid=ecf05e4799807eac7adc5c22acc117de8202bde6329576ef&rid=giphy.gif");
+  background-size: cover;
+  color: transparent;
+}
+
+.l:hover {
+  border-radius: 50%;
+  background-image: url("https://media1.giphy.com/media/l1BUojJe4cno1U0CgL/giphy.gif?cid=ecf05e476f1892d6d00771e30eb7b49b5189e38ad46d6d97&rid=giphy.gif");
+  background-size: cover;
+  color: transparent;
+}
+
+.m:hover {
+  border-radius: 50%;
+  background-image: url("https://media0.giphy.com/media/AS6Ttgel4yUjqFKlGh/giphy.gif?cid=ecf05e47aeba300de1e26a4df866ef3e3102c8d57abe733e&rid=giphy.gif");
+  background-size: cover;
+  color: transparent;
+}
+
+.n:hover {
+  border-radius: 50%;
+  background-image: url("https://media1.giphy.com/media/E3f3WMlG1D4gU/giphy.gif?cid=ecf05e4755da63503a586f50ed076d6e474c64ed72e68b32&rid=giphy.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: transparent;
+}
+
+.o:hover {
+  border-radius: 50%;
+  background-image: url("https://media1.giphy.com/media/4EEHUwAKSJeP4uhyBB/200.webp?cid=ecf05e47a8d8f155ac630c2a3840d286cc0817bb293e5f4d&rid=200.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: transparent;
+
+}
+
+.p:hover {
+  border-radius: 50%;
+  background-image: url("https://media1.giphy.com/media/2xEBaucWB9naO2JqLD/giphy.gif?cid=ecf05e47df260a0748ad9fa61e39a6e93a5ebc172b84e9df&rid=giphy.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: transparent;
+}
+
+.q:hover {
+  border-radius: 50%;
+  background-image: url("queen.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: transparent;
+}
+
+.r:hover {
+  border-radius: 50%;
+  background-image: url("https://media3.giphy.com/media/WFOSqgYRrNmxy/giphy.gif?cid=ecf05e4717f6aee8e95eb4907af73b3f5bf0351b89fc8da4&rid=giphy.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: transparent;
+}
+
+.s:hover {
+  border-radius: 50%;
+  background-image: url("https://media1.giphy.com/media/jt2vWbKT52u2NLVtay/200w.webp?cid=ecf05e4776a48f70c34d55aaa4ff1466561c92ff1065fe62&rid=200w.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: transparent;
+}
+
+.t:hover {
+  border-radius: 50%;
+  background-image: url("tree.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: transparent;
+}
+
+.u:hover {
+  border-radius: 50%;
+  background-image: url("https://media1.giphy.com/media/3oEdvbelTmMXOQ9VDO/200w.webp?cid=ecf05e4705dbe0b7a196becc0d2d99d34bef2e67ba4ef479&rid=200w.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: transparent;
+}
+
+.v:hover {
+  border-radius: 50%;
+  background-image: url("https://media2.giphy.com/media/3ov9jYJElLP8rfSN3y/giphy.gif?cid=ecf05e47e06413c6d283ae3409025913cdc4df36d85087d7&rid=giphy.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: transparent;
+}
+
+.w:hover {
+  border-radius: 50%;
+  background-image: url("https://media3.giphy.com/media/3o6MvqlnTRZf1OTdpS/giphy.gif?cid=ecf05e478593727a93209c3d6b9ba2a67764ddeb3ceda187&rid=giphy.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: transparent;
+}
+
+.x:hover {
+  border-radius: 50%;
+  background-image: url("https://media2.giphy.com/media/m8yGXrU8Mdb2fwpDwF/giphy.gif?cid=ecf05e47d9ee1d115d9827cc1a6a0a5b955de61b4d7f805b&rid=giphy.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: transparent;
+}
+
+.y:hover {
+  border-radius: 50%;
+  background-image: url("https://i.imgur.com/eHk9uBs.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: transparent;
+}
+
+.z:hover {
+  border-radius: 50%;
+  background-image: url("https://media0.giphy.com/media/FA7Ao05T81V9m/giphy.gif?cid=ecf05e474666b70ad2f358c4deb51bc1e6b03099d48fe9a0&rid=giphy.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: transparent;
+}
+
+
+.set {
+  margin: 10% auto;
+  position: relative;
+  animation-name: overflowing;
+  animation-duration: 0.16s;
+  animation-direction: reverse;
+}
+
+.pressed {
+  transform: translate(0px, 0px);
+  animation-name: overflowing;
+  animation-duration: 2s;
+  animation-direction: reverse;
+  transition-delay: 2s gray;  
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.letter {
+  text-transform: uppercase;
+  outline: none;
+  font-size: 5rem;
+  font-family: 'Exo', sans-serif;
+  line-height: 2;
+  font-weight: 900;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  margin: 20px;
+  border-radius: 33px;
+  background: linear-gradient(#d9863a, #9198e5);
+  box-shadow:  -41px 41px 82px #202420, 
+             41px -41px 82px #828e82;
+  transform: translate(-10px, -10px);
+  transition: box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
+}
+.letter:active, .pressed{
+  overflow: hidden;
+  animation: none;
+  box-shadow: 2px 2px 3px rgba(255, 255, 255, 0.9) inset, -2px -2px 3px rgba(38, 38, 38, 0.9) inset, 0px 0px 0px rgba(38, 38, 38, 0.7), 0px 0px 0px rgba(255, 255, 255, 0.4);
+  transform: translate(10px, 10px);
+}
+@keyframes overflowing {
+  from {
+    overflow: visible;
+  }
+  to {
+    overflow: hidden;
+  }
+}
+footer > p {
+background: #515951;
+padding: 35px;
+color: #fff;
+font-size: 2rem;
+  text-align: center;
+  border-radius: 20px 20px 0 0;
+  line-height: 5px;
+  margin: -2rem auto;
+ font-family: 'Libre Barcode 128 Text', cursive;
+  border-radius: 15px;
+  box-shadow: -15px -15px 15px rgba(255, 255, 255, 0.2),
+             15px 15px 15px rgba(0,0,0,0.1),
+            inset -5px -5px 5px rgba(255, 255, 255, 0.2),
+            inset 5px 5px 5px rgba(0,0,0,0.1);
+            text-shadow: 1px 1px 2px #000;
+            }

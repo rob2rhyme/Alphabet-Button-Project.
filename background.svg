@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+      viewBox="0 0 200 100" style="Border: 4px #fff solid" > xml:space="preserve">
+<!--top left to bottom left start-->
+<!-- 1st column, triangles only -->
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M0 -5, l5 5, l-5 5, v-10, Z" />
+
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M0 15, l5 5, l-5 5, v-10, Z" />
+
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M0 35, l5 5, l-5 5, v-10, Z" />
+
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M0 55, l5 5, l-5 5, v-10, Z" />
+
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M0 75, l5 5, l-5 5, v-10, Z" />
+
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M0 95, l5 5, l-5 5, v-10, Z" />
+
+<!-- 1st column, first row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M5 0, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M0 5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M0 15, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M10 5, l5 5, l-5 5, v-10, Z" />
+
+<!-- 1st column, 2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M5 20, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M0 25, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M0 35, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M10 25, l5 5, l-5 5, v-10, Z" />
+
+<!-- 1st column 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M5 40, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M0 45, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M0 55, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M10 45, l5 5, l-5 5, v-10, Z" />
+
+<!-- 1st column 4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M5 60, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M0 65, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M0 75, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M10 65, l5 5, l-5 5, v-10, Z" />
+
+<!-- 1st column 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M5 80, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M0 85, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M0 95, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M10 85, l5 5, l-5 5, v-10, Z" />
+
+<!-- 1st column, 2nd row -->
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M10 -5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M10 5, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M20 -5, l5 5, l-5 5, v-10, Z" />
+
+<!-- 2nd column, 2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M15 10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M10 15, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M10 25, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M20 15, l5 5, l-5 5, v-10, Z" />
+
+<!-- 2nd column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M15 30, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M10 35, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M10 45, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M20 35, l5 5, l-5 5, v-10, Z" />
+
+<!-- 2nd column, 4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M15 50, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M10 55, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M10 65, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M20 55, l5 5, l-5 5, v-10, Z" />
+
+<!-- 2nd column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M15 70, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M10 75, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M10 85, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M20 75, l5 5, l-5 5, v-10, Z" />
+
+<!-- 2nd column, 6th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M15 90, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M10 95, h10, v10 h-10, v-10 Z" />
+
+
+<!-- 3nd column, 1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M25 0, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M20 5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M20 15, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M30 5, l5 5, l-5 5, v-10, Z" />
+
+<!-- 3rd column, 2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M25 20, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M20 25, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M20 35, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M30 25, l5 5, l-5 5, v-10, Z" />
+
+<!-- 3rd column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M25 40, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M20 45, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M20 55, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M30 45, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 3rd column, 4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M25 60, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M20 65, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M20 75, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M30 65, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 3rd column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M25 80, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M20 85, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M20 95, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M30 85, l5 5, l-5 5, v-10, Z" />
+
+<!-- 3rd column, 6th row -->
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M20 95, l5 5, l-5 5, v-10, Z" />
+
+<!-- 4th column, 1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M35 -10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M30 -5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M30 5, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M40 -5, l5 5, l-5 5, v-10, Z" />
+
+<!-- 4th column, 2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M35 10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M30 15, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M30 25, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M40 15, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 4th column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M35 30, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M30 35, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M30 45, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M40 35, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 4th column, 4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M35 50, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M30 55, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M30 65, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M40 55, l5 5, l-5 5, v-10, Z" />
+
+
+
+<!-- 4th column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M35 70, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M30 75, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M30 85, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M40 75, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 4th column, 6th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M35 90, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M30 95, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M40 95, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 5th column,1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M45 0, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M40 5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M40 15, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M50 5, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 5th column,2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M45 20, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M40 25, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M40 35, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M50 25, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 5th column,3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M45 40, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M40 45, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M40 55, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M50 45, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 5th column,4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M45 60, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M40 65, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M40 75, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M50 65, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 5th column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M45 80, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M40 85, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M40 95, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M50 85, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 6th column, 1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M55 -10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M50 -5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M50 5, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M60 -5, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 6th column,2nd row -->  
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M55 10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M50 15, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M50 25, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M60 15, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 6th column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M55 30, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M50 35, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M50 45, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M60 35, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 6th column,4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M55 50, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M50 55, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M50 65, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M60 55, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 6th column,5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M55 70, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M50 75, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M50 85, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M60 75, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 6th column,6th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M55 90, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M50 95, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M50 105, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M60 95, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 7th column,1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M65 0, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M60 5, h10, v10 h-10, v-10 Z" />
+<path clas="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M60 15, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M70 5, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 7th column, 2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M65 20, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M60 25, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M60 35, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M70 25, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 7th column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M65 40, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M60 45, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M60 55, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M70 45, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 7th column, 4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M65 60, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M60 65, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M60 75, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M70 65, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 7th column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M65 80, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M60 85, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M60 95, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M70 85, l5 5, l-5 5, v-10, Z" />
+
+<!-- 8th column, 1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M75 -10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M70 -5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M70 5, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M80 -5, l5 5, l-5 5, v-10, Z" />
+
+<!-- 8th column, 2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M75 10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M70 15, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M70 25, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M80 15, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 8th column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M75 30, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M70 35, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M70 45, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M80 35, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 8th column, 4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M75 50, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M70 55, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M70 65, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M80 55, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 8th column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M75 70, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M70 75, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M70 85, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M80 75, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 8th column, 6th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M75 90, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M70 95, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M70 105, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M80 95, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 9th column, 1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M85 0, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M80 5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M80 15, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M90 5, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 9th column, 2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M85 20, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M80 25, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M80 35, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M90 25, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 9th column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M85 40, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M80 45, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M80 55, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M90 45, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 9th column,4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M85 60, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M80 65, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M80 75, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M90 65, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 9th column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M85 80, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M80 85, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M80 95, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M90 85, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 10th column, 1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M95 10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M90 15, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M90 25, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M100 15, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 10th column, 2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M95 30, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M90 35, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M90 45, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M100 35, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 10th column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M95 50, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M90 55, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M90 65, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M100 55, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 10th column,4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M95 70, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M90 75, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M90 85, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M100 75, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 10th column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M95 90, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M90 95, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M90 105, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M100 95, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 10th column, 6th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M95 -10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M90 -5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M90 5, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M100 -5, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 11th column, 1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M105 0, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M100 5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M100 15, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M110 5, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 11th column, 2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M105 20, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M100 25, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M100 35, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M110 25, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 11th column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M105 40, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M100 45, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M100 55, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M110 45, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 11th column, 4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M105 60, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M100 65, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M100 75, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M110 65, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 11th column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M105 80, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M100 85, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M100 95, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M110 85, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 12th column, 1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M115 10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M110 15, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M110 25, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M120 15, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 12th column, 2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M115 30, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M110 35, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M110 45, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M120 35, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 12th column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M115 50, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M110 55, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M110 65, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M120 55, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 12th column, 4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M115 70, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M110 75, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M110 85, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M120 75, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 12th column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M115 90, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M110 95, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M110 105, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M120 95, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 12th column, 6th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M115 -10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M110 -5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M110 5, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M120 -5, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 13th column, 1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M125 0, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M120 5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M120 15, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M130 5, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 13th column, 2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M125 20, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M120 25, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M120 35, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M130 25, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 13th column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M125 40, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M120 45, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M120 55, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M130 45, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 13th column, 4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M125 60, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M120 65, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M120 75, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M130 65, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 13th column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M125 80, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M120 85, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M120 95, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M130 85, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 14th column, 1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M135 -10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M130 -5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M130 5, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M140 -5, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 14th column, 2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M135 10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M130 15, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M130 25, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M140 15, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 14th column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M135 30, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M130 35, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M130 45, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M140 35, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 14th column, 4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M135 50, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M130 55, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M130 65, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M140 55, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 14th column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M135 70, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M130 75, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M130 85, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M140 75, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 14th column, 6th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M135 90, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M130 95, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M130 105, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M140 95, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 15th column, 1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M145 0, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M140 5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M140 15, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M150 5, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 15th column, 2nd row  -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M145 20, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M140 25, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M140 35, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M150 25, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 15th column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M145 40, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M140 45, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M140 55, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M150 45, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 15th column, 4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M145 60, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M140 65, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M140 75, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M150 65, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 15th column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M145 80, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M140 85, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M140 95, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M150 85, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 16th column, 1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M155 -10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M150 -5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M150 5, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M160 -5, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 16th column, 2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M155 10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M150 15, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M150 25, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M160 15, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 16th column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M155 30, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M150 35, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M150 45, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M160 35, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 16th column, 4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M155 50, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M150 55, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M150 65, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M160 55, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 16th column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M155 70, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M150 75, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M150 85, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M160 75, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 16th column, 6th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M155 90, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M150 95, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M150 105, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M160 95, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 17th column, 1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M165 0, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M160 5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M160 15, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M170 5, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 17th column, 2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M165 20, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M160 25, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M160 35, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M170 25, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 17th column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M165 40, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M160 45, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M160 55, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M170 45, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 17th column, 4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M165 60, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M160 65, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M160 75, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M170 65, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 17th column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M165 80, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M160 85, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M160 95, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M170 85, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 18th column, 1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M175 -10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M170 -5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M170 5, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M180 -5, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 18th column, 2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M175 10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M170 15, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M170 25, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M180 15, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 18th column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M175 30, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M170 35, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M170 45, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M180 35, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 18th column, 4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M175 50, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M170 55, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M170 65, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M180 55, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 18th column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M175 70, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M170 75, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M170 85, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M180 75, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 18th column, 6th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M175 90, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M170 95, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M170 105, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M180 95, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 19th column, 1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M185 0, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M180 5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M180 15, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M190 5, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 19th column, 2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M185 20, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M180 25, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M180 35, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M190 25, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 19th column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M185 40, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M180 45, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M180 55, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M190 45, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 19th column, 4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M185 60, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M180 65, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M180 75, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M190 65, l5 5, l-5 5, v-10, Z" />
+
+
+<!-- 19th column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M185 80, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M180 85, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M180 95, h10, v5, h-5, l-5 -5 Z" />
+<path class="sample" stroke= "#515951" stroke-width=".1" fill="#515951" opacity="none" d="M190 85, l5 5, l-5 5, v-10, Z" />
+
+<!--20th column, 1st row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M195 -10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M190 -5, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M190 5, h10, v5, h-5, l-5 -5 Z" />
+
+
+
+<!--20th column, 2nd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M195 10, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M190 15, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M190 25, h10, v5, h-5, l-5 -5 Z" />
+
+
+
+<!--20th column, 3rd row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M195 30, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M190 35, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M190 45, h10, v5, h-5, l-5 -5 Z" />
+
+
+
+<!--20th column, 4th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M195 50, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M190 55, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M190 65, h10, v5, h-5, l-5 -5 Z" />
+
+
+
+<!--20th column, 5th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M195 70, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M190 75, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M190 85, h10, v5, h-5, l-5 -5 Z" />
+
+
+
+<!--20th column, 6th row -->
+<path class="sample" stroke= "#646c64" stroke-width=".1" fill="#646c64" opacity="none" d="M195 90, h5, v5 h-10, l5 -5 Z" />
+<path class="sample" stroke= "#5e665e" stroke-width=".1" fill="#5e665e" opacity="none" d="M190 95, h10, v10 h-10, v-10 Z" />
+<path class="sample" stroke= "#575f57" stroke-width=".1" fill="#575f57" opacity="none" d="M190 105, h10, v5, h-5, l-5 -5 Z" />
+
+
+<!--top left to bottom left end-->
+
+  </svg>
+<!-- 13th column, 1st row -->
