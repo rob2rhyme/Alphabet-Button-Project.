@@ -7,19 +7,27 @@ body {
 
 h1 {
   font-size: 5rem;
-  color: #26af65;
+  color: #d9863a;
   font-family: 'Vast Shadow', cursive;
-  text-shadow: 1px 1px 2px #fff;
-
-}
+  text-shadow: 0 1px 0 #ccc,
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);}
 
 .a:hover{
       border-radius: 50%;
       background-image: url("apple.gif");
       background-repeat: no-repeat;
       background-size: cover;
-      color: transparent;
-}
+      color: transparent;}
 
 .b:hover {
   border-radius: 50%;
@@ -271,7 +279,7 @@ h1 {
 }
 footer {
 background: #515951;
-padding: 35px;
+padding: 0 10px 10px;
 color: #fff;
 font-size: 2rem;
   text-align: center;
