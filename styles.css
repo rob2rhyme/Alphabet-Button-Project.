@@ -22,6 +22,8 @@ h1 {
                0 5px 10px rgba(0,0,0,.25),
                0 10px 10px rgba(0,0,0,.2),
                0 20px 20px rgba(0,0,0,.15);}
+
+
 .a:hover{
       border-radius: 50%;
       background-image: url("apple.gif");
@@ -326,7 +328,7 @@ box-shadow:  11pt 11pt 23pt #212121,
              -11pt -11pt 23pt #626262;}
 
 .weather {
-  cursor: none;
+  cursor: progress;
   margin-top: 2.5rem;
   margin-right: 2.5%;
   width: 130px;
@@ -334,3 +336,42 @@ box-shadow:  11pt 11pt 23pt #212121,
   background: #7f8c8d;
 box-shadow:  5pt 5pt 10pt #333838, 
              -5pt -5pt 10pt #cbe0e2;}
+
+/*tooltip*/
+a {
+  text-decoration: none;
+  font-size: 1.5em;
+}
+
+.tooltip {
+margin-top: 2em;
+  position: relative;
+  display: inline-block;
+  -webkit-animation: downarrow 0.6s infinite alternate ease-in-out;
+}
+@-webkit-keyframes downarrow {
+  0% { -webkit-transform: translateY(0); opacity: 0.4 }
+  100% { -webkit-transform: translateY(0.4em); opacity: 0.9 }
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 250px;
+  background-color: orange;
+  color: #000;
+  text-align: center;
+  border-radius: 6px;
+  padding: 1px 0;
+  
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  bottom: 70%;
+  left: 0;
+  margin-left: -90px;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}             
+
