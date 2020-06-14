@@ -326,6 +326,7 @@ box-shadow:  11pt 11pt 23pt #212121,
              -11pt -11pt 23pt #626262;}
 
 .weather {
+  cursor: none;
   margin-top: 2.5rem;
   margin-right: 2.5%;
   width: 130px;
